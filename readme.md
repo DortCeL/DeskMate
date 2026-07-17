@@ -4,7 +4,8 @@ A lightweight, always-on-top animated desktop companion for Windows.
 
 ## The famous **CHIKA FUJIWARA** lives on your very own desktop :)
 
-![demo](demo.gif)
+> **Note:** The demonstration GIF below may take a moment to load.
+> ![demo](demo.gif)
 
 ## Overview
 
